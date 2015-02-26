@@ -313,4 +313,3 @@ education.display();
 // append the Google Map to the page;
 // pins will appear in the places i've gone to school and worked, taken from the JSON info
 $( "#mapDiv" ).append( googleMap );
-

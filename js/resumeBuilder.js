@@ -124,12 +124,25 @@ var projects =
 	"projects" :
 	[
 		{
+			"title" : "Bugger!",
+			"dates" : "2015",
+			"description" : "Udacity Front-end Web Developer Project 3",
+			"imageTitles" :
+			[
+				"screenshot"
+			],
+			"images" :
+			[
+				"images/bugger.png"
+			]
+		},
+		{
 			"title" : "T-shirts I like",
 			"dates" : "2008 - 2015",
 			"description" : "Recent awesome t-shirts from various one-shirt-a-day sites.",
 			"imageTitles" :
 			[
-				"Ballon Fairy",
+				"Balloon Fairy",
 				"Chaos Emerald",
 				"Hobbit's Tales",
 				"The Lion War"
